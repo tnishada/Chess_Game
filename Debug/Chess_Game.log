@@ -1,33 +1,26 @@
-﻿Build started 11/7/2014 4:22:00 PM.
-     1>Project "c:\Users\tharindu\documents\visual studio 2010\Projects\Chess_Game_Solution\Chess_Game\Chess_Game.vcxproj" on node 2 (build target(s)).
-     1>PrepareForBuild:
-         Creating directory "c:\users\tharindu\documents\visual studio 2010\Projects\Chess_Game_Solution\Debug\".
-       InitializeBuildStatus:
+﻿Build started 11/7/2014 5:02:53 PM.
+     1>Project "C:\Users\tharindu\Documents\Visual Studio 2010\Projects\Chess_Game_Solution\Chess_Game\Chess_Game.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
          Creating "Debug\Chess_Game.unsuccessfulbuild" because "AlwaysCreate" was specified.
        ClCompile:
-         c:\Program Files\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /I"C:\Users\tharindu\Documents\Visual Studio 2010\Projects\Chess_Dll_Solution\Chess_Dll" /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt Chess_Game.cpp stdafx.cpp
-         stdafx.cpp
-         Chess_Game.cpp
-         Generating Code...
+         All outputs are up-to-date.
        ManifestResourceCompile:
-         c:\Program Files\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"Debug\Chess_Game.exe.embed.manifest.res" Debug\Chess_Game_manifest.rc 
+         All outputs are up-to-date.
        Link:
-         c:\Program Files\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"c:\users\tharindu\documents\visual studio 2010\Projects\Chess_Game_Solution\Debug\Chess_Game.exe" /INCREMENTAL /NOLOGO /LIBPATH:"C:\Users\tharindu\Documents\Visual Studio 2010\Projects\Chess_Dll_Solution\Debug" Chess_Dll.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\Chess_Game.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"c:\users\tharindu\documents\visual studio 2010\Projects\Chess_Game_Solution\Debug\Chess_Game.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"c:\users\tharindu\documents\visual studio 2010\Projects\Chess_Game_Solution\Debug\Chess_Game.lib" /MACHINE:X86 Debug\Chess_Game.exe.embed.manifest.res
+         c:\Program Files\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\tharindu\Documents\Visual Studio 2010\Projects\Chess_Game_Solution\Debug\Chess_Game.exe" /INCREMENTAL /NOLOGO /LIBPATH:"C:\Users\tharindu\Documents\Visual Studio 2010\Projects\Chess_Dll_Solution\Debug" Chess_Dll.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\Chess_Game.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\tharindu\Documents\Visual Studio 2010\Projects\Chess_Game_Solution\Debug\Chess_Game.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\tharindu\Documents\Visual Studio 2010\Projects\Chess_Game_Solution\Debug\Chess_Game.lib" /MACHINE:X86 Debug\Chess_Game.exe.embed.manifest.res
          Debug\Chess_Game.obj
          Debug\stdafx.obj
        Manifest:
          c:\Program Files\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\Chess_Game.exe.embed.manifest" /manifest Debug\Chess_Game.exe.intermediate.manifest
-         c:\Program Files\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"Debug\Chess_Game.exe.embed.manifest.res" Debug\Chess_Game_manifest.rc 
+         All outputs are up-to-date.
        LinkEmbedManifest:
-         c:\Program Files\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"c:\users\tharindu\documents\visual studio 2010\Projects\Chess_Game_Solution\Debug\Chess_Game.exe" /INCREMENTAL /NOLOGO /LIBPATH:"C:\Users\tharindu\Documents\Visual Studio 2010\Projects\Chess_Dll_Solution\Debug" Chess_Dll.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\Chess_Game.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"c:\users\tharindu\documents\visual studio 2010\Projects\Chess_Game_Solution\Debug\Chess_Game.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"c:\users\tharindu\documents\visual studio 2010\Projects\Chess_Game_Solution\Debug\Chess_Game.lib" /MACHINE:X86 Debug\Chess_Game.exe.embed.manifest.res
-         Debug\Chess_Game.obj
-         Debug\stdafx.obj
-         Chess_Game.vcxproj -> c:\users\tharindu\documents\visual studio 2010\Projects\Chess_Game_Solution\Debug\Chess_Game.exe
+         All outputs are up-to-date.
+         Chess_Game.vcxproj -> C:\Users\tharindu\Documents\Visual Studio 2010\Projects\Chess_Game_Solution\Debug\Chess_Game.exe
        FinalizeBuildStatus:
          Deleting file "Debug\Chess_Game.unsuccessfulbuild".
          Touching "Debug\Chess_Game.lastbuildstate".
-     1>Done Building Project "c:\Users\tharindu\documents\visual studio 2010\Projects\Chess_Game_Solution\Chess_Game\Chess_Game.vcxproj" (build target(s)).
+     1>Done Building Project "C:\Users\tharindu\Documents\Visual Studio 2010\Projects\Chess_Game_Solution\Chess_Game\Chess_Game.vcxproj" (build target(s)).
 
 Build succeeded.
 
-Time Elapsed 00:00:01.88
+Time Elapsed 00:00:00.56

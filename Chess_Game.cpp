@@ -11,9 +11,9 @@ int _tmain(int argc, _TCHAR* argv[])
 {
 	char Board[8][8];
 
-	Functions::Move(Board,0,0,5,5);
+	Board[5][3] = 'K';
 
-	cout<<Board[0][0];
+	Functions::isChecked(Board, 'K');
 
 	return 0;
 }
